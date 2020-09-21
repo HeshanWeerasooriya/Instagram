@@ -10,11 +10,13 @@ Instagram UI Clone build using Flutter
 
 <img src="https://user-images.githubusercontent.com/40269564/93731982-136db800-fbed-11ea-8239-caa9effb3fdf.png" width="200" height="400"  align="left" />
 
+<p align="left" width="200" height="400">
+    <src="https://user-images.githubusercontent.com/40269564/93731990-1bc5f300-fbed-11ea-8ed4-f02888deeab0.png"> 
+</p>
 
 
 
 
-<img src="https://user-images.githubusercontent.com/40269564/93731990-1bc5f300-fbed-11ea-8ed4-f02888deeab0.png" width="200" height="400"  />
 
 
 
