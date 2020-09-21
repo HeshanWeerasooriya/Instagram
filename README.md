@@ -6,11 +6,11 @@ A new Flutter application.
 
 <img src="https://user-images.githubusercontent.com/40269564/93731971-0650c900-fbed-11ea-986f-5a40f5b72086.png" width="200" height="400"  align="right" />
 
-<img src="https://user-images.githubusercontent.com/40269564/93731976-0c46aa00-fbed-11ea-883e-a685f5e36494.png" width="200" height="400" />
+<img src="https://user-images.githubusercontent.com/40269564/93731976-0c46aa00-fbed-11ea-883e-a685f5e36494.png" width="200" height="400"  align="right" />
 
 <img src="https://user-images.githubusercontent.com/40269564/93731982-136db800-fbed-11ea-8239-caa9effb3fdf.png" width="200" height="400" />
 
-<img src="https://user-images.githubusercontent.com/40269564/93731990-1bc5f300-fbed-11ea-8ed4-f02888deeab0.png" width="200" height="400"  align="left" />
+<img src="https://user-images.githubusercontent.com/40269564/93731990-1bc5f300-fbed-11ea-8ed4-f02888deeab0.png" width="200" height="400" />
 
 
 ## Getting Started
