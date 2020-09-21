@@ -1,6 +1,6 @@
 # instagram
 
-A new Flutter application.
+Instagram UI Clone build using Flutter 
 
 <img src="https://user-images.githubusercontent.com/40269564/93731917-d4d7fd80-fbec-11ea-9a06-18e52da75ffa.png" width="200" height="400"  align="left" />
 
