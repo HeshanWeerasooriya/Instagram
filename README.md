@@ -4,7 +4,7 @@ A new Flutter application.
 
 <img src="https://user-images.githubusercontent.com/40269564/93731917-d4d7fd80-fbec-11ea-9a06-18e52da75ffa.png" width="200" height="400" />
 
-<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
+<img src="https://user-images.githubusercontent.com/40269564/93731971-0650c900-fbed-11ea-986f-5a40f5b72086.png" width="200" height="400" />
 
 
 ![search](https://user-images.githubusercontent.com/40269564/93731971-0650c900-fbed-11ea-986f-5a40f5b72086.png)
