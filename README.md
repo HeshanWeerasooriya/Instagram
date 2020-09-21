@@ -13,8 +13,6 @@ A new Flutter application.
 <img src="https://user-images.githubusercontent.com/40269564/93731990-1bc5f300-fbed-11ea-8ed4-f02888deeab0.png" width="200" height="400" />
 
 
-![profile](https://user-images.githubusercontent.com/40269564/93731990-1bc5f300-fbed-11ea-8ed4-f02888deeab0.png)
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
